@@ -11,8 +11,8 @@
 - 🏋️ When I'm not coding, I'm at the gym
 
 ### 🔗 Find me here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge)]((https://www.instagram.com/_luiss_santoss_/))
-[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mrluis.santoss@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge)](https://www.instagram.com/_luiss_santoss_/)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mrluis.santoss@gmail.com)
 
 ### 🧰 IT Support Skills
 ![Hardware Troubleshooting](https://img.shields.io/badge/Hardware_Troubleshooting-1f6feb?style=for-the-badge)
