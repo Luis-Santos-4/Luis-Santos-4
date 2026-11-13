@@ -12,7 +12,7 @@
 
 ### 🔗 Find me here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge)](https://www.linkedin.com/in/luis-santos-1165aa24b/)
-[![Email](https://img.shields.io/badge/mrluis.santoss%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mrluis.santoss@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](https://mail.google.com/mail/?view=cm&fs=1&to=mrluis.santoss@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/_luiss_santoss_/)
 
 ### 🧰 IT Support Skills
