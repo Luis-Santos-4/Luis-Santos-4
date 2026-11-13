@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="360" viewBox="0 0 420 360">
+  <rect x="1" y="1" width="418" height="358" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="20" r="6" fill="#27c93f"/>
+  <text x="210" y="25" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#8b949e">gym.exe</text>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -16; 0 0" keyTimes="0;0.5;1" dur="1.8s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1"/>
+    <rect x="70" y="96" width="280" height="8" rx="4" fill="#8b949e"/>
+    <rect x="84" y="88" width="10" height="24" rx="2" fill="#6e7681"/>
+    <rect x="326" y="88" width="10" height="24" rx="2" fill="#6e7681"/>
+    <rect x="96" y="62" width="20" height="76" rx="4" fill="#58a6ff"/>
+    <rect x="118" y="72" width="14" height="56" rx="3" fill="#1f6feb"/>
+    <rect x="304" y="62" width="20" height="76" rx="4" fill="#58a6ff"/>
+    <rect x="288" y="72" width="14" height="56" rx="3" fill="#1f6feb"/>
+    <rect x="182" y="86" width="56" height="28" rx="14" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+    <text x="210" y="105" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="bold" fill="#3fb950">&lt;/&gt;</text>
+  </g>
+  <text x="210" y="172" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="bold" fill="#e6edf3">Code. <tspan fill="#58a6ff">Lift.</tspan> Repeat.</text>
+  <rect x="20" y="192" width="380" height="150" rx="8" fill="#161b22" stroke="#30363d"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="13">
+    <text x="36" y="216" fill="#e6edf3"><tspan fill="#3fb950">$</tspan> ./workout --mode=beast</text>
+    <text x="36" y="239" fill="#8b949e">&gt; Bench press</text>
+    <text x="260" y="239" fill="#e6edf3">3x10</text>
+    <text x="336" y="239" fill="#3fb950">✔</text>
+    <text x="36" y="262" fill="#8b949e">&gt; Debugging</text>
+    <text x="260" y="262" fill="#e6edf3">3x10</text>
+    <text x="336" y="262" fill="#3fb950">✔</text>
+    <text x="36" y="285" fill="#8b949e">&gt; Deadlift</text>
+    <text x="260" y="285" fill="#e6edf3">3x8</text>
+    <text x="336" y="285" fill="#3fb950">✔</text>
+    <text x="36" y="308" fill="#8b949e">&gt; Loading gains</text>
+    <rect x="200" y="298" width="150" height="12" rx="3" fill="#21262d"/>
+    <rect x="200" y="298" width="0" height="12" rx="3" fill="#3fb950">
+      <animate attributeName="width" values="0;150;150" keyTimes="0;0.8;1" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="36" y="331" fill="#e6edf3"><tspan fill="#3fb950">$</tspan> git push --force <tspan>█<animate attributeName="fill-opacity" values="1;0" dur="1s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>
+  </g>
+</svg>
